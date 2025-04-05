@@ -53,6 +53,7 @@ When you first load the project ([http](http://localhost/)) you'll find exercise
 You can visit exercise 1 in the top right nav bar.
 
 You'll simply see the output from the CSV file (you can find it in www/exercise1/scores.csv).
+
 ![Website Screenshot](https://i.imgur.com/V2A34T9.png)
 
 To see exercise contents, please access www/exercise1. File index.php contains a brief summary of how it works.
@@ -61,13 +62,16 @@ To see exercise contents, please access www/exercise1. File index.php contains a
 When you first load the project ([http](http://localhost/)) you'll find exercise 2 index.
 
 You can fill the required details.
+
 ![Website Screenshot](https://i.imgur.com/YVNuRXA.png)
 
 It will autofill the appointment type (either first-time or second check).
 The website will send advices in case of bad formatting or wrong data on the form.
+
 ![Website Screenshot](https://i.imgur.com/4bB5Xiz.png)
 
 If you've previously visited the website and asked for an appointment, the second time you fill the form, it will auto-select second check option.
+
 ![Website Screenshot](https://i.imgur.com/ZsLARwg.png)
 
 To see exercise contents, please access www. File index.php contains a brief summary of how it works.
