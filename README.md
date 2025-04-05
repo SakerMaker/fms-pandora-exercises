@@ -32,7 +32,7 @@ First, you'll need to install Docker on your machine and clone this repository.
 
 ### Prerequisites
 
-* Cloning this repository
+* Clone this repository
   ```sh
   git clone https://github.com/sakermaker/fms-pandora-exercises
   ```
