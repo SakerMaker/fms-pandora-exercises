@@ -14,13 +14,13 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <ul>
-          <li><a href="#exercise 1">Exercise 1</a></li>
-          <li><a href="#exercise 2">Exercise 2</a></li>
-        </ul>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <ul>
+          <li><a href="#exercise-1">Exercise 1</a></li>
+          <li><a href="#exercise-2">Exercise 2</a></li>
+        </ul>
   </ol>
 </details>
 
@@ -28,7 +28,7 @@
 
 First, you'll need to install Docker on your machine and clone this repository.
 
-### Prerequisites and Installation
+### Prerequisites
 
 * Cloning this repository
   ```sh
