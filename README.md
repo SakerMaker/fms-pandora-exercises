@@ -16,11 +16,13 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <ul>
-          <li><a href="#exercise-1">Exercise 1</a></li>
-          <li><a href="#exercise-2">Exercise 2</a></li>
-        </ul>
+    <li><a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#exercise-1">Exercise 1</a></li>
+        <li><a href="#exercise-2">Exercise 2</a></li>
+      </ul>
+    </li>
+    
   </ol>
 </details>
 
