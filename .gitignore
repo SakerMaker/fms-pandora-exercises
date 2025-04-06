@@ -1,6 +1,7 @@
 /.env
 /.vscode
 /config/*
+!/config/initdb/appointment_db.sql
 /data/*
 /logs/*
 .DS_Store
